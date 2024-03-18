@@ -1,0 +1,16 @@
+V 0.1
+Blocks-
+Sandstone(8) + Water Bucket = Sand
+Charcoal(9) = Block of Coal
+Charcoal = Coal
+
+V 0.2
+Blocks-
+Charcoal = Coal
+(46 recipes)Slabs(2) = Full block
+
+V 0.3
+String(9) = Cobweb
+Block of Amethyst = Amethyst Shard (4)
+Honeycomb Block + Bottle = Honey Bottle
+Honeycomb Block = Honeycomb (4)
